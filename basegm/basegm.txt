@@ -4,7 +4,7 @@
     "maps"      "^rp_"
     "base"      "base"
 
-    "author_name"   "blobles"
+    "author_name"   "Noodler & Sportsfreak"
     "author_email"  "n/a"
     "author_url"    ""
 }
